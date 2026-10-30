@@ -1,0 +1,10 @@
+# Dados baixados não vão para o GitHub (licença e tamanho). Ver data/README.md
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*.csv
+*.duckdb
+*.db
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+~$*
